@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Price-GRID](images/price-grid.png)
-![Mobile](images/price-grid-mobie.html.png)
+![Price-GRID](images/home.html.png)
+![Mobile](images/mobile.png)
 
 ### Links
 
